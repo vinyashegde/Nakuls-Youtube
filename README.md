@@ -1,6 +1,10 @@
 # Nakuls Youtube
  Now my friend Nakul can see youtube videos without ads
  
+ ## Working
+ ![ezgif com-gif-maker](https://user-images.githubusercontent.com/46837876/189237174-9b2da7c5-e774-4ec6-8bca-75f4835f07a5.gif)
+
+ 
  ## Features
  
  1.No adds on youtube videos
