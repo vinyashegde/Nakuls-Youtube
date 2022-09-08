@@ -22,7 +22,7 @@
  
  ![](https://raw.githubusercontent.com/vinyashegde/Nakuls-Youtube/main/STep%201.png)
  
- Step 2:
+ Step 2: Extract to your desired location
  
  ![](https://raw.githubusercontent.com/vinyashegde/Nakuls-Youtube/main/Nakuls-Youtube-main.zip%209_9_2022%203_07_30%20AM.png)
  
