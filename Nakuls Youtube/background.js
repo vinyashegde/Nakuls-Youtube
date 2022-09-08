@@ -1,6 +1,8 @@
 // Called when the user clicks on the browser action icon.
 chrome.browserAction.onClicked.addListener(function (tab) {
 
+        //testing code
+
         //var new_url = tab.url.replace(tab.url, "https://www.yout-ube.com/watch?v="+tab.url);
         //var new_url = tab.url.replace(tab.url, "https://www.yout-ube.com/watch?v="+tab.url);
         //var tablink = tab.url.length;
@@ -15,11 +17,11 @@ chrome.browserAction.onClicked.addListener(function (tab) {
         console.log(output); //debug
 
         chrome.tabs.update(tab.id, { url: output });
-        setTimeout(myFunction, 1000);
+        setTimeout(myFunction, 1000); //wait time 1000 = 1s
         //chrome.tabs.reload();
 
 });
 
 function myFunction() {
-        chrome.tabs.reload();
+        chrome.tabs.reload(); // refreshs active tab
       }
