@@ -4,9 +4,13 @@
  ## Features
  
  1.No adds on youtube videos
+ 
  2.Watch in full screen inside chrome layout
+ 
  3.One Click easy to use
+ 
  4.On keyboard button press(coming soon...)
+ 
  
  ## Installation
  
